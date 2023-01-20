@@ -7,7 +7,7 @@ Standard Bank Data Analysis for Home Loan Eligibility Prediction
 
 <p><h2 align="center"><font color="red">  Project Overview, Task and Solution </font></h2>
 
-<p> Client: Standard Bank
+<p> Client: Standard Bank Home Loan Department
 <p> Client's Industry: Banking and Finance
 
 Standard Bank is one of Africa's biggest lender by assets, the bank aims to improve the current process in which its potential borowers apply for a home loan. The current process involves loan officers manually processing home loan applications which takes 2 to 3 days upon which the applicant will recieve communication or wheter or not they have been granted the loan for the requested amount. 
